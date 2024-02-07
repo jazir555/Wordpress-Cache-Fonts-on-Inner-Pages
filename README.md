@@ -1,3 +1,5 @@
+*****Work in Progress, this doesn't work yet*****
+
 # Wordpress-Cache-Fonts-on-Inner-Pages
 A simple plugin which creates a service worker to cache fonts on subsequent page loads after a user initially visits a page on a Wordpress site.
 
